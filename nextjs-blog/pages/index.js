@@ -10,8 +10,9 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Tsushima, software engineer and occassional ghost 👻</p>
+
         <p>
-          (re-learning Nextjs by building
+          (re-learning Nextjs by building {""}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
